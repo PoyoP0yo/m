@@ -1,15 +1,15 @@
 # How to become Machine Learning Engineer
 By Derick Turner
----
+
 # Table of Contents
-- Major Classes to take
-- Personal Projects
-- Certifications
-- Internships/Jobs
--- How to get
--- Resume material
--- Preparing for Interview
-- References
+- [Major Classes to take](https://github.com/PoyoP0yo/m/blob/main/process.md#major-classes-to-take)
+- [Personal Projects](https://github.com/PoyoP0yo/m/blob/main/process.md#personal_projects)
+- [Certifications](https://github.com/PoyoP0yo/m/blob/main/process.md#certifications)
+- [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process.md#internshipsjobs)
+-- [How to get](https://github.com/PoyoP0yo/m/blob/main/process.md#how-to-get)
+-- [Resume material](https://github.com/PoyoP0yo/m/blob/main/process.md#resume-material)
+-- [Preparing for Interview](https://github.com/PoyoP0yo/m/blob/main/process.md#preparing-for-interview)
+- [References](https://github.com/PoyoP0yo/m/blob/main/process.md#references)
 ---
 I seen you, you want to become AI maker thing. Well do I got just the right information for you!! Follow this ez tutorial to become the ultimate clanker maker! **FIX**
 
