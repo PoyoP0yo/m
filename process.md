@@ -5,9 +5,9 @@ By Derick Turner
 - [Major Classes to take](https://github.com/PoyoP0yo/m/blob/main/process.md#major-classes-to-take)
 - [Personal Projects](https://github.com/PoyoP0yo/m/blob/main/process.md#personal_projects)
 - [Certifications](https://github.com/PoyoP0yo/m/blob/main/process.md#certifications)
-- [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process.md#internshipsjobs)  
-  - [How to get](https://github.com/PoyoP0yo/m/blob/main/process.md#how-to-get)  
-  - [Resume material](https://github.com/PoyoP0yo/m/blob/main/process.md#resume-material)  
+- [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process.md#internshipsjobs)
+  - [Resume material](https://github.com/PoyoP0yo/m/blob/main/process.md#resume-material) 
+  - [How to get](https://github.com/PoyoP0yo/m/blob/main/process.md#how-to-get)   
     - [Preparing for Interview](https://github.com/PoyoP0yo/m/blob/main/process.md#preparing-for-interview)  
 - [References](https://github.com/PoyoP0yo/m/blob/main/process.md#references)
 ---
@@ -31,15 +31,15 @@ In terms of overall impact on a resume, certifications are mostly an extra bonus
 ## Internships/Jobs
 A ML engineer career isn't usually viewed as an entry level position, so it may be necessary to get some experience in as a Data Scientist or Software Engineer first if possible.
 
-### How to get
-Good places to find a job would be to look in builtinseattle.com and ycombinator.com rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger businesses like FAANG.
-
 ### Resume Material
 Use the other sections of this page to help in addding content to your resume. When making the resume, 
 - Make sure it isn't too wordy. Hiring managers usually scan through it. Test yours with a 20-second scan and see if your biggest selling points pop out.
 - Add the most impressive points near the top to help it stick out
 - Focus on impacts when explaining work experience/projects instead of what happened (e.g. "stocked shelves everyday" vs "reorganized and replaced over 200 items / day")
 - Use numbers / statistics when possible (e.g. "taught a bunch of students math" vs "increased students' calculus proficiency by 70%")
+
+### How to get
+Good places to find a job would be to look in builtinseattle.com and ycombinator.com rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger businesses like FAANG.
 
 ### Preparing for Interview
 insert image here
