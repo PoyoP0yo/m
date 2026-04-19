@@ -8,7 +8,7 @@ By Derick Turner
 - [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process.md#internshipsjobs)  
   - [How to get](https://github.com/PoyoP0yo/m/blob/main/process.md#how-to-get)  
   - [Resume material](https://github.com/PoyoP0yo/m/blob/main/process.md#resume-material)  
--- [Preparing for Interview](https://github.com/PoyoP0yo/m/blob/main/process.md#preparing-for-interview)  
+    - [Preparing for Interview](https://github.com/PoyoP0yo/m/blob/main/process.md#preparing-for-interview)  
 - [References](https://github.com/PoyoP0yo/m/blob/main/process.md#references)
 ---
 I seen you, you want to become AI maker thing. Well do I got just the right information for you!! Follow this ez tutorial to become the ultimate clanker maker! **FIX**
