@@ -5,7 +5,7 @@ By Derick Turner
 - [Major Classes to take](https://github.com/PoyoP0yo/m/blob/main/process.md#major-classes-to-take)
 - [Personal Projects](https://github.com/PoyoP0yo/m/blob/main/process.md#personal_projects)
 - [Certifications](https://github.com/PoyoP0yo/m/blob/main/process.md#certifications)
-- [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process.md#internshipsjobs)
+- [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process.md#internshipsjobs)  
 -- [How to get](https://github.com/PoyoP0yo/m/blob/main/process.md#how-to-get)  
 -- [Resume material](https://github.com/PoyoP0yo/m/blob/main/process.md#resume-material)  
 -- [Preparing for Interview](https://github.com/PoyoP0yo/m/blob/main/process.md#preparing-for-interview)  
