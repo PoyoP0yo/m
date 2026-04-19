@@ -19,7 +19,7 @@ I seen you, you want to become AI maker thing. Well do I got just the right info
 There are several electives that will help in learning more and getting experience in machine learning. These include:  
 - Classes about AI (CSS 382: Introduction to Artificial Intelligence, CSS 576: Cybersecurity and Artificial Intelligence, CSS 586: Deep Learning and Artificial Intelligence)
 - Classes about ML (CSS 486: Machine Intelligence, CSS 581: Machine Learning, CSS 582: Interpretable Machine Learning in Applications)
-- Classes about Computer Vision (CSS 487: Computer Vision, CSS 587: Advanced Topics in Computer Vision)
+- Classes about Computer Vision (CSS 487: Computer Vision, CSS 587: Advanced Topics in Computer Vision)  
 Another class that is handy to have is CSS: 436 Cloud Computing to learn about AWS and other cloud based services.
 
 ## Personal Projects
