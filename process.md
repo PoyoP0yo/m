@@ -1,6 +1,6 @@
 # How to become Machine Learning Engineer
 By Derick Turner
-
+---
 # Table of Contents
 - Major Classes to take
 - Personal Projects
@@ -10,8 +10,10 @@ By Derick Turner
 -- Resume material
 -- Preparing for Interview
 - References
-
+---
 I seen you, you want to become AI maker thing. Well do I got just the right information for you!! Follow this ez tutorial to become the ultimate clanker maker! **FIX**
+
+
 
 ## Major Classes to take
 There are several electives that will help in learning more and getting experience in machine learning. These include:  
@@ -44,6 +46,7 @@ insert image here
 
 # References
 [1] https://www.reddit.com/r/learnmachinelearning/comments/190pio6/whats_the_best_certification_i_get_to_get/
-[2]
+[2] https://www.reddit.com/r/learnmachinelearning/comments/1rdw0m6/which_aiml_certifications_actually_help_land_a/
+
 
 
