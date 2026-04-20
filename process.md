@@ -39,7 +39,7 @@ Use the other sections of this page to help in addding content to your resume. W
 - Use numbers / statistics when possible (e.g. "taught a bunch of students math" vs "increased students' calculus proficiency by 70%")
 
 ## How to get
-Good places to find a job would be to look in [builtinseattle.com](www.builtinseattle.com) and [ycombinator.com](www.ycombinator.com) rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve. Another good place would be at a job fair, where employers are ready to hire for internships and jobs. Make sure to bring several copies of your resume to hand out to employers at these. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger businesses like FAANG.
+Good places to find a job would be to look in builtinseattle and ycombinator rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve. Another good place would be at a job fair, where employers are ready to hire for internships and jobs. Make sure to bring several copies of your resume to hand out to employers at these. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger businesses like FAANG.
 
 ## Preparing for Interview
 ![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)
