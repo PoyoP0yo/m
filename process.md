@@ -42,7 +42,7 @@ Use the other sections of this page to help in addding content to your resume. W
 Good places to find a job would be to look in builtinseattle and ycombinator rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve. Another good place would be at a job fair, where employers are ready to hire for internships and jobs. Make sure to bring several copies of your resume to hand out to employers at these. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger businesses like FAANG.
 
 ## Preparing for Interview
-![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)
+![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial2.jpg?raw=true)
 *The STAR method is a good way to structure answers to questions in an interview. I will explain the STAR method with examples from a possible project:
 * Situation: explain the context behind the example you are bringing up (e.g. I was a college student who was struggling to pick a drink from my Starbucks that I often went to. I thought that making an AI to help decide what I picked based on the day would be helpful)
 * Task: highlight the challenge and obstacles it took to reach your goal (e.g. I had not much experience making or implementing an AI beforehand nor any experience in making UI and websites. I also needed the site to not take up too much of my budget.)
