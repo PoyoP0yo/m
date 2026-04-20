@@ -52,13 +52,13 @@ Good places to find a job would be to look in [builtinseattle.com](www.builtinse
 Of course, prepare first by researching the company and practicing mock interviews and answers. Make sure you have all the details about the interview beforehand such as if there will be multiple interviewers, time, location, and write down any questions you want to ask about the position.  
 
 # References
-[1] "UWB Course Offerings," UW Bothell, [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 19 April 2026].
-[2] M. Wyss, "4 *Real* Machine Learning Projects That Get You Hired - No More Tutorials!," Youtube, 26 August 2025. [Online]. Available: https://www.youtube.com/watch?v=MFSFcPsMsuE. [Accessed 19 April 2026].
-[3] A. Dyouri, "How to Integrate ChatGPT's API With Python Projects," RealPython, 19 January 2026. [Online]. Available: https://realpython.com/chatgpt-api-python/. [Accessed 19 April 2026].
-[4] "Which AI/ML certifications actually help land a job in 2026? (Not beginner fluff)," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/1rdw0m6/which_aiml_certifications_actually_help_land_a/. [Accessed 19 April 2026].
-[5] "Whats the best certification I get to get selected as ML Engineer or Associate ML Engineer?," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/190pio6/whats_the_best_certification_i_get_to_get/. [Accessed 19 April 2026].
-[6] I. Amazon, "STAR Method - How to Ace Your Amazon Interview," Youtube, 25 January 2024. [Online]. Available: https://www.youtube.com/watch?v=UQrTMxouDUY. [Accessed 19 April 2026].
-[7] "Interview Tips," U.S. DOL, [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
+[1]   "UWB Course Offerings," UW Bothell, [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 19 April 2026].  
+[2]   M. Wyss, "4 *Real* Machine Learning Projects That Get You Hired - No More Tutorials!," Youtube, 26 August 2025. [Online]. Available: https://www.youtube.com/watch?v=MFSFcPsMsuE. [Accessed 19 April 2026].  
+[3]   A. Dyouri, "How to Integrate ChatGPT's API With Python Projects," RealPython, 19 January 2026. [Online]. Available: https://realpython.com/chatgpt-api-python/. [Accessed 19 April 2026].  
+[4]   "Which AI/ML certifications actually help land a job in 2026? (Not beginner fluff)," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/1rdw0m6/which_aiml_certifications_actually_help_land_a/. [Accessed 19 April 2026].  
+[5]   "Whats the best certification I get to get selected as ML Engineer or Associate ML Engineer?," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/190pio6/whats_the_best_certification_i_get_to_get/. [Accessed 19 April 2026].  
+[6]   Inside Amazon, "STAR Method - How to Ace Your Amazon Interview," Youtube, 25 January 2024. [Online]. Available: https://www.youtube.com/watch?v=UQrTMxouDUY. [Accessed 19 April 2026].  
+[7]   "Interview Tips," U.S. DOL, [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
 
 
 
