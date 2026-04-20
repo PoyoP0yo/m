@@ -42,7 +42,7 @@ Use the other sections of this page to help in addding content to your resume. W
 Good places to find a job would be to look in [builtinseattle.com](www.builtinseattle.com) and [ycombinator.com](www.ycombinator.com) rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve. Another good place would be at a job fair, where employers are ready to hire for internships and jobs. Make sure to bring several copies of your resume to hand out to employers at these. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger businesses like FAANG.
 
 ## Preparing for Interview
-![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)
+![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true | width = 100)
 *The STAR method is a good way to structure answers to questions in an interview. I will explain the STAR method with examples from a possible project:
 * Situation: explain the context behind the example you are bringing up (e.g. I was a college student who was struggling to pick a drink from my Starbucks that I often went to. I thought that making an AI to help decide what I picked based on the day would be helpful)
 * Task: highlight the challenge and obstacles it took to reach your goal (e.g. I had not much experience making or implementing an AI beforehand nor any experience in making UI and websites. I also needed the site to not take up too much of my budget.)
@@ -52,13 +52,14 @@ Good places to find a job would be to look in [builtinseattle.com](www.builtinse
 Of course, prepare first by researching the company and practicing mock interviews and answers. Make sure you have all the details about the interview beforehand such as if there will be multiple interviewers, time, location, and write down any questions you want to ask about the position.  
 
 # References
-[1]   "UWB Course Offerings," UW Bothell, [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 19 April 2026].  
-[2]   M. Wyss, "4 *Real* Machine Learning Projects That Get You Hired - No More Tutorials!," Youtube, 26 August 2025. [Online]. Available: https://www.youtube.com/watch?v=MFSFcPsMsuE. [Accessed 19 April 2026].  
-[3]   A. Dyouri, "How to Integrate ChatGPT's API With Python Projects," RealPython, 19 January 2026. [Online]. Available: https://realpython.com/chatgpt-api-python/. [Accessed 19 April 2026].  
-[4] 	"Which AI/ML certifications actually help land a job in 2026? (Not beginner fluff)," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/1rdw0m6/which_aiml_certifications_actually_help_land_a/. [Accessed 19 April 2026].  
-[5] 	"Whats the best certification I get to get selected as ML Engineer or Associate ML Engineer?," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/190pio6/whats_the_best_certification_i_get_to_get/. [Accessed 19 April 2026].  
-[6] 	I. Amazon, "STAR Method - How to Ace Your Amazon Interview," Youtube, 25 January 2024. [Online]. Available: https://www.youtube.com/watch?v=UQrTMxouDUY. [Accessed 19 April 2026].  
-[7] 	"Interview Tips," U.S. DOL, [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
+[1] "UWB Course Offerings," UW Bothell, [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 19 April 2026].
+[2] M. Wyss, "4 *Real* Machine Learning Projects That Get You Hired - No More Tutorials!," Youtube, 26 August 2025. [Online]. Available: https://www.youtube.com/watch?v=MFSFcPsMsuE. [Accessed 19 April 2026].
+[3] A. Dyouri, "How to Integrate ChatGPT's API With Python Projects," RealPython, 19 January 2026. [Online]. Available: https://realpython.com/chatgpt-api-python/. [Accessed 19 April 2026].
+[4] "Which AI/ML certifications actually help land a job in 2026? (Not beginner fluff)," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/1rdw0m6/which_aiml_certifications_actually_help_land_a/. [Accessed 19 April 2026].
+[5] "Whats the best certification I get to get selected as ML Engineer or Associate ML Engineer?," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/190pio6/whats_the_best_certification_i_get_to_get/. [Accessed 19 April 2026].
+[6] I. Amazon, "STAR Method - How to Ace Your Amazon Interview," Youtube, 25 January 2024. [Online]. Available: https://www.youtube.com/watch?v=UQrTMxouDUY. [Accessed 19 April 2026].
+[7] "Interview Tips," U.S. DOL, [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
+
 
 
 
