@@ -11,7 +11,7 @@ By Derick Turner
   - [Preparing For An Interview](https://github.com/PoyoP0yo/m/blob/main/process2.md#preparing-for-an-interview)  
 - [References](https://github.com/PoyoP0yo/m/blob/main/process2.md#references)
 ---
-This document will cover the best practices on how to get a job as a Machine Learning Engineer. Refer to different sections of this document to find resources on building your portfolio, resume, and skills for the job. (Note: Likely need to fix to explain what report is about and why info is important)(also add club section if can fit within word limit)
+This document covers the best practices on getting a job as a Machine Learning Engineer. Knowing what to do and where to look to get the job is the first step in a successful career out of college. You should start right away as you have valuable college resources to aid you in this process. 
 
 
 # Major Classes to take
@@ -53,7 +53,8 @@ Of course, prepare first by researching the company and [practicing mock intervi
 [7]   "Interview Tips," U.S. DOL, [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
 [8]   E. Howell, "What I *actually* do as a Machine Learning Engineer (salary, job, reality)," Youtube, 16 March 2025. [Online]. Available: https://www.youtube.com/watch?v=PFbXCIMlfc8. [Accessed 19 April 2026].
 
-[Word Count: 699]
+
+[Word Count: 716]
 
 
 
