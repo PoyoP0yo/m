@@ -11,7 +11,7 @@ By Derick Turner
   - [Preparing For An Interview](https://github.com/PoyoP0yo/m/blob/main/process2.md#preparing-for-an-interview)  
 - [References](https://github.com/PoyoP0yo/m/blob/main/process2.md#references)
 ---
-This document will cover the best practices on how to get a job as a Machine Learning Engineer. Refer to different sections of this document to get different resources on getting the thing. (Fix to explain what report is about and why info is important)
+This document will cover the best practices on how to get a job as a Machine Learning Engineer. Refer to different sections of this document to find resources on building your portfolio, resume, and skills for the job. (Likely need to fix to explain what report is about and why info is important)(also add club section if can fit within word limit)
 
 
 # Major Classes to take
@@ -22,7 +22,7 @@ Another class that is handy to have is CSS: 436 Cloud Computing to learn about A
 Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. Possible projects that would help cement a role in the career would be some usage of an AI model, whether that be making one or even using a low cost one from ChatGPT and pulling requests from it. To start, a good idea for your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/). A good personal project comes from your hard work in researching, testing, and creativity and shows to the world that you know what what you were doing.
 
 # Certifications
-In terms of overall impact on a resume, certifications are mostly an extra bonus for employers[^4]. However, some ones that will give a little extra consideration to a resume are the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). If you can afford to take any one of these courses, they can provide an edge over others candidates. Do keep in mind that projects are still more important to have.
+In terms of overall impact on a resume, certifications are mostly an extra bonus for employers. However, some ones that will give a little extra consideration to a resume are the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). If you can afford to take any one of these courses, they can provide an edge over others candidates. Do keep in mind that projects are still more important to have.
 
 # Internships/Jobs
 A ML engineer roles aren't typically found at an entry level position from college, so it is necessary to get some experience in as a Data Scientist or Software Engineer first if possible. The below sections are some tips on applying to those jobs for experience and applying for the ML role.
@@ -51,6 +51,9 @@ Of course, prepare first by researching the company and [practicing mock intervi
 [5]   "Whats the best certification I get to get selected as ML Engineer or Associate ML Engineer?," Reddit, [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/190pio6/whats_the_best_certification_i_get_to_get/. [Accessed 19 April 2026].  
 [6]   Inside Amazon, "STAR Method - How to Ace Your Amazon Interview," Youtube, 25 January 2024. [Online]. Available: https://www.youtube.com/watch?v=UQrTMxouDUY. [Accessed 19 April 2026].  
 [7]   "Interview Tips," U.S. DOL, [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
+[8]   E. Howell, "What I *actually* do as a Machine Learning Engineer (salary, job, reality)," Youtube, 16 March 2025. [Online]. Available: https://www.youtube.com/watch?v=PFbXCIMlfc8. [Accessed 19 April 2026].
+
+
 
 
 
