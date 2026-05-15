@@ -16,7 +16,7 @@ This document will cover the best practices on how to get a job as a Machine Lea
 
 # Major Classes to take
 Taking major classes are strong ways to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field and is a good way to learn while getting your degree. Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision when possible.
-Another class that is handy to have is CSS: 436 Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
+Another class that is handy to have is CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
 
 # Personal Projects 
 Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. Possible projects that would help cement a role in the career would be some usage of an AI model, whether that be making one or even using a low cost one from ChatGPT and pulling requests from it. To start, a good idea for your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/). A good personal project comes from your hard work in researching, testing, and creativity and shows to the world that you know what what you were doing.
