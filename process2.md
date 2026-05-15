@@ -53,6 +53,7 @@ Of course, prepare first by researching the company and [practicing mock intervi
 [7]   "Interview Tips," U.S. DOL, [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
 [8]   E. Howell, "What I *actually* do as a Machine Learning Engineer (salary, job, reality)," Youtube, 16 March 2025. [Online]. Available: https://www.youtube.com/watch?v=PFbXCIMlfc8. [Accessed 19 April 2026].
 
+[Word Count: 699]
 
 
 
