@@ -11,7 +11,7 @@ By Derick Turner
   - [Preparing For An Interview](https://github.com/PoyoP0yo/m/blob/main/process2.md#preparing-for-an-interview)  
 - [References](https://github.com/PoyoP0yo/m/blob/main/process2.md#references)
 ---
-This document will cover the best practices on how to get a job as a Machine Learning Engineer. Refer to different sections of this document to find resources on building your portfolio, resume, and skills for the job. (Likely need to fix to explain what report is about and why info is important)(also add club section if can fit within word limit)
+This document will cover the best practices on how to get a job as a Machine Learning Engineer. Refer to different sections of this document to find resources on building your portfolio, resume, and skills for the job. (Note: Likely need to fix to explain what report is about and why info is important)(also add club section if can fit within word limit)
 
 
 # Major Classes to take
