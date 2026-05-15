@@ -1,55 +1,47 @@
-# How to become Machine Learning Engineer
+# Best Practices to become a Machine Learning Engineer
 By Derick Turner
 
 # Table of Contents
-- [Major Classes to take](https://github.com/PoyoP0yo/m/blob/main/process.md#major-classes-to-take)
-- [Personal Projects](https://github.com/PoyoP0yo/m/blob/main/process.md#personal-projects)
-- [Certifications](https://github.com/PoyoP0yo/m/blob/main/process.md#certifications)
-- [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process.md#internshipsjobs)
-  - [Resume material](https://github.com/PoyoP0yo/m/blob/main/process.md#resume-material) 
-  - [How to get](https://github.com/PoyoP0yo/m/blob/main/process.md#how-to-get)   
-    - [Preparing for Interview](https://github.com/PoyoP0yo/m/blob/main/process.md#preparing-for-interview)  
-- [References](https://github.com/PoyoP0yo/m/blob/main/process.md#references)
+- [Major Classes to take](https://github.com/PoyoP0yo/m/blob/main/process2.md#major-classes-to-take)
+- [Personal Projects](https://github.com/PoyoP0yo/m/blob/main/process2.md#personal-projects)
+- [Certifications](https://github.com/PoyoP0yo/m/blob/main/process2.md#certifications)
+- [Internships/Jobs](https://github.com/PoyoP0yo/m/blob/main/process2.md#internshipsjobs)
+  - [Resume Material](https://github.com/PoyoP0yo/m/blob/main/process2.md#resume-material) 
+  - [Where To Apply For Jobs And Internships](https://github.com/PoyoP0yo/m/blob/main/process2.md#where-to-apply-for-jobs-and-internships)   
+  - [Preparing For An Interview](https://github.com/PoyoP0yo/m/blob/main/process2.md#preparing-for-an-interview)  
+- [References](https://github.com/PoyoP0yo/m/blob/main/process2.md#references)
 ---
-Becoming a machine learning engineer takes a lot of years to do. You are expected to have at least a bachelor's degree in a related field, knowledge in machine learning, AI, and algorithms, and preferably some personal projects or experience to demonstrate what you know. This page has several tips to aid in becoming a machine learning engineer.
+This document will cover the best practices on how to get a job as a Machine Learning Engineer. Refer to different sections of this document to get different resources on getting the thing. (Fix to explain what report is about and why info is important)
 
 
 # Major Classes to take
-There are several electives that will help in learning more and getting experience in machine learning. These include:  
-- Classes about AI (CSS 382: Introduction to Artificial Intelligence, CSS 576: Cybersecurity and Artificial Intelligence, CSS 586: Deep Learning and Artificial Intelligence)
-- Classes about ML (CSS 486: Machine Intelligence, CSS 581: Machine Learning, CSS 582: Interpretable Machine Learning in Applications)
-- Classes about Computer Vision (CSS 487: Computer Vision, CSS 587: Advanced Topics in Computer Vision)
-    
-Another class that is handy to have is CSS: 436 Cloud Computing to learn about AWS and other cloud based services.
+Taking major classes are strong ways to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field and is a good way to learn while getting your degree. Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision when possible.
+Another class that is handy to have is CSS: 436 Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
 
-# Personal Projects
-Personal projects are an important part to have on a resume for any potential employers or just for yourself. Possible projects that would help cement a role in the career would be some usage of an AI model, whether that be making one or even using a low cost one from ChatGPT and pulling requests from it. To start, a good idea for your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/). A good personal project comes from your hard work in researching, testing, and creativity and shows to the world that you know what what you were doing.
+# Personal Projects 
+Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. Possible projects that would help cement a role in the career would be some usage of an AI model, whether that be making one or even using a low cost one from ChatGPT and pulling requests from it. To start, a good idea for your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/). A good personal project comes from your hard work in researching, testing, and creativity and shows to the world that you know what what you were doing.
 
 # Certifications
-In terms of overall impact on a resume, certifications are mostly an extra bonus for employers. However, some ones that will give a little extra consideration to a resume are the Google Cloud ML Engineer certification, an AWS or Azure ML certification, or Andrew Ng's ML course. If you can afford to take any one of these courses, they can provide a small edge over others. Do keep in mind that projects are still more important to have.
+In terms of overall impact on a resume, certifications are mostly an extra bonus for employers[^4]. However, some ones that will give a little extra consideration to a resume are the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). If you can afford to take any one of these courses, they can provide an edge over others candidates. Do keep in mind that projects are still more important to have.
 
 # Internships/Jobs
-A ML engineer career isn't usually viewed as an entry level position, so it may be necessary to get some experience in as a Data Scientist or Software Engineer first if possible. The below sections are some tips on getting to other jobs and applying for the ML role.
+A ML engineer roles aren't typically found at an entry level position from college, so it is necessary to get some experience in as a Data Scientist or Software Engineer first if possible. The below sections are some tips on applying to those jobs for experience and applying for the ML role.
 
 ## Resume Material
-Use the other sections of this page to help in addding content to your resume. When making the resume, 
+Use the [other sections of this page](https://github.com/PoyoP0yo/m/blob/main/process2.md#table-of-contents) to help in adding content to your resume. Refer to [career services](https://www.uwb.edu/career-services/appointments#Drop-in%20hours) or the [writing center](https://www.uwb.edu/learning-commons/appointments-drop-ins/) to get help in making the resume. When making the resume, 
 - Make sure it isn't too wordy. Hiring managers usually scan through it. Test yours with a 20-second scan and see if your biggest selling points pop out.
 - Add the most impressive points near the top to help it stick out
 - Focus on impacts when explaining work experience/projects instead of what happened (e.g. "stocked shelves everyday" vs "reorganized and replaced over 200 items / day")
 - Use numbers / statistics when possible (e.g. "taught a bunch of students math" vs "increased students' calculus proficiency by 70%")
 
-## How to get
-Good places to find a job would be to look in builtinseattle and ycombinator rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve. Another good place would be at a job fair, where employers are ready to hire for internships and jobs. Make sure to bring several copies of your resume to hand out to employers at these. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger businesses like FAANG.
+## Where to Apply for Jobs and Internships
+Good places to find a job would be to look in [builtinseattle](https://www.builtinseattle.com) and [ycombinator](https://www.ycombinator.com) rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never recieve and have significantly lower success rates. Another good place would be to go to [career fairs](https://www.uwb.edu/career-services/employers/career-fairs), where employers are ready to hire for internships and jobs. Make sure to bring several copies of your resume to hand out to employers at these. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger companies like FAANG.
 
-## Preparing for Interview
+## Preparing For An Interview
 ![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)  
-*The STAR method is a good way to structure answers to questions in an interview. I will explain the STAR method with examples from a possible project:
-* Situation: explain the context behind the example you are bringing up (e.g. I was a college student who was struggling to pick a drink from my Starbucks that I often went to. I thought that making an AI to help decide what I picked based on the day would be helpful)
-* Task: highlight the challenge and obstacles it took to reach your goal (e.g. I had not much experience making or implementing an AI beforehand nor any experience in making UI and websites. I also needed the site to not take up too much of my budget.)
-* Action: talk about what steps you took to achieve your goal (e.g. I researched how to use ChatGPT to read the drinks menu with some tutorials and coded the page in HTML in Github. I took in inputs of desired sweetness in drink and hot/cold to deside which drink would suit the users. I also optimized the API rates by limiting user prompts per day)
-* Result: explain what happened after the action and what you learned (e.g. The site gained small popularity around campus with over 200 users over 3 months. I gained valuable experience in implementing an existing AI, creating a website, and API handling.)    
+*The STAR method is a good way to structure answers to questions in an interview. Refer to this [video by Amazon](https://www.youtube.com/watch?v=UQrTMxouDUY) to see an example of usage.
 
-Of course, prepare first by researching the company and practicing mock interviews and answers. Make sure you have all the details about the interview beforehand such as if there will be multiple interviewers, time, location, and write down any questions you want to ask about the position.  
+Of course, prepare first by researching the company and [practicing mock interviews and answers through career services](https://www.uwb.edu/career-services/appointments). Make sure you have all the details about the interview beforehand such as time, location, if there will be multiple interviewers,  and write down any questions you want to ask about the position.  
 
 # References
 [1]   "UWB Course Offerings," UW Bothell, [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 19 April 2026].  
