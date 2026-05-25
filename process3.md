@@ -14,7 +14,7 @@ By Derick Turner
 - [References](#references)
 ---
 ## Purpose
-This document covers the best practices on getting a job as a Machine Learning Engineer directly out of college. Knowing what to do and where to look to get the job is the first step in a successful career after college. You should start right away as you have valuable college resources to aid you in this process. 
+This document covers the best practices on getting a job as a Machine Learning Engineer directly out of college as a UWB undergraduate. Knowing what to do and where to look to get the job is the first step in a successful career after college. You should start right away as you have valuable college resources to aid you in this process. 
 
 
 ## Major Classes to Take
@@ -70,7 +70,7 @@ Prepare first by researching the company and [practicing mock interviews and ans
 [10]  E. Howell, "What I *actually* do as a Machine Learning Engineer (salary, job, reality)," Youtube, 16 March 2025. [Online]. Available: https://www.youtube.com/watch?v=PFbXCIMlfc8. [Accessed 19 April 2026].
 
 
-[Word Count: 672]
+[Word Count: 676]
 
 
 
