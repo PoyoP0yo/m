@@ -59,23 +59,14 @@ Prepare first by researching the company and [practicing mock interviews and ans
 
 # References
 [1]   "UWB Course Offerings," UW Bothell, n.d. [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 19 April 2026].  
-
 [2]   M. Wyss, "4 *Real* Machine Learning Projects That Get You Hired - No More Tutorials!," Youtube, 26 August 2025. [Online]. Available: https://www.youtube.com/watch?v=MFSFcPsMsuE. [Accessed 19 April 2026].  
-
 [3]   A. Dyouri, "How to Integrate ChatGPT's API With Python Projects," RealPython, 19 January 2026. [Online]. Available: https://realpython.com/chatgpt-api-python/. [Accessed 19 April 2026].  
-
 [4] 	S. Bokare, "Why You Shouldn’t Hackathon With Your Friends (And Why We Did It Anyway)," Medium, 5 August 2025. [Online]. Available: https://medium.com/@soumyabokare/why-you-shouldnt-hackathon-with-your-friends-and-why-we-did-it-anyway-1a66202cf8f5. [Accessed 25 May 2026].
-
 [5] 	G. Krasadakis, "How to Win a Hackathon: A Practical Guide for Participants," Innovation Mode, n.d. [Online]. Available: https://theinnovationmode.com/the-innovation-blog/survival-guide-for-hackathon-participants. [Accessed 25 May 2026].
-
 [6]   "Which AI/ML certifications actually help land a job in 2026? (Not beginner fluff)," Reddit, n.d. [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/1rdw0m6/which_aiml_certifications_actually_help_land_a/. [Accessed 19 April 2026].  
-
 [7]   "Whats the best certification I get to get selected as ML Engineer or Associate ML Engineer?," Reddit, n.d [Online]. Available: https://www.reddit.com/r/learnmachinelearning/comments/190pio6/whats_the_best_certification_i_get_to_get/. [Accessed 19 April 2026].  
-
 [8]   Inside Amazon, "STAR Method - How to Ace Your Amazon Interview," Youtube, 25 January 2024. [Online]. Available: https://www.youtube.com/watch?v=UQrTMxouDUY. [Accessed 19 April 2026].  
-
 [9]   "Interview Tips," U.S. DOL, n.d. [Online]. Available: https://www.dol.gov/general/jobs/interview-tips. [Accessed 19 April 2026].
-
 [10]  E. Howell, "What I *actually* do as a Machine Learning Engineer (salary, job, reality)," Youtube, 16 March 2025. [Online]. Available: https://www.youtube.com/watch?v=PFbXCIMlfc8. [Accessed 19 April 2026].
 
 
