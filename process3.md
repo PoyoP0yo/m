@@ -35,7 +35,7 @@ Follow the [@uwb_hacks Instagram](https://www.instagram.com/uwb_hacks/) for upda
 # Extra Certifications to Get
 In terms of overall impact on a resume, certifications are mostly an extra bonus for employers [6][7]. This bonus can be the difference between another similar candidate and you getting the job.
 
-Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). 
+Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure AI](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). 
 
 # Getting The Job/Internship
 
@@ -70,7 +70,7 @@ Prepare first by researching the company and [practicing mock interviews and ans
 [10]  E. Howell, "What I *actually* do as a Machine Learning Engineer (salary, job, reality)," Youtube, 16 March 2025. [Online]. Available: https://www.youtube.com/watch?v=PFbXCIMlfc8. [Accessed 19 April 2026].
 
 
-[Word Count: 716]
+[Word Count: 658]
 
 
 
