@@ -1,13 +1,13 @@
 # Best Practices to become a Machine Learning Engineer
 By Derick Turner
 
-# Table of Contents
+## Table of Contents
 - [Purpose](#purpose)
 - [Major Classes to Take](#major-classes-to-take)
 - [Impactful Personal Projects](#impactful-personal-projects)
 - [Hands-On Experience at Hackathons](#hands-on-experience-at-hackathons)
 - [Extra Certifications to Get](#extra-certifications-to-get)
-- [Getting the Job/Internship](#getting-the-jobinternship)
+- [Getting the Job](#getting-the-job)
   - [Writing Your Resume](#writing-your-resume) 
   - [Where to Apply for Jobs and Internships](#where-to-apply-for-jobs-and-internships)   
   - [Preparing for an Interview](#preparing-for-an-interview)  
@@ -37,7 +37,7 @@ In terms of overall impact on a resume, certifications are mostly an extra bonus
 
 Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure AI](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). 
 
-## Getting the Job/Internship
+## Getting the Job
 
 ### Writing Your Resume
 A poorly written resume can undersell your value and experience even if you meet all of the qualifications of the job.
