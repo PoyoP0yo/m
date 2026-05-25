@@ -5,6 +5,7 @@ By Derick Turner
 - [Purpose](#purpose)
 - [Major Classes to take](#major-classes-to-take)
 - [Personal Projects](#personal-projects)
+- [Hands-On Experience at Hackathons](#hands-on-experience-at-hackathons)
 - [Certifications](#certifications)
 - [Internships/Jobs](#internshipsjobs)
   - [Resume Material](#resume-material) 
@@ -26,15 +27,10 @@ Personal projects are needed in the industry as a tangible way to show experienc
 
 Good specialized projects would be some usage of an AI model, whether that be making one or even using a low cost one like from ChatGPT and pulling requests from it. Your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/).
 
-# Tech Clubs To Join
-Clubs shows collaboration, commitment, and even leadership if you have a higher up position in the club. Having a club on your resume or even just to talk about during an interview can make you stand out to employers.
+# Hands-On Experience at Hackathons 
+Hackathons provide collaboration skills and experience with creating a project under a small time window. They also provide useful hands-on experience with using AI and frameworks with room to experiment. Networking is as easy as talking to some of the judges or team members you find there.
 
-Join ____ club.
-
-# Hackathons 
-Hackathons provide collaboration skills and experience with creating a project under a small window of time.
-
-Follow the uwb_hacks Instagram for updates about the yearly hackathon. Join it. Enter with a team of people you don't know[medium].  
+Follow the [@uwb_hacks Instagram](https://www.instagram.com/uwb_hacks/) for updates about the yearly hackathon. Join the hackathon. Enter with a team of people you don't know[medium]. Create a group with a diverse set of skills. Some tips to winning the hackathon can be found [here](https://levelup.gitconnected.com/how-to-win-a-hackathon-ee740c6d47db) 
 
 # Certifications
 In terms of overall impact on a resume, certifications are mostly an extra bonus for employers [4][5]. However, having some will still give extra consideration to a resume. They provide another tangible way to show experience and knowledge.
@@ -59,10 +55,10 @@ It is not recommended to apply on Indeed or Linkedin as they often mislead you i
 Look in [builtinseattle](https://www.builtinseattle.com) and [ycombinator](https://www.ycombinator.com) Go to [career fairs](https://www.uwb.edu/career-services/employers/career-fairs) when avaliable. Make sure to bring several copies of your resume to hand out to employers at these. Check Google Maps for local businesses and apply on their sites. Apply to smaller companies for a higher chance of recieving a response.
 
 ## Preparing For An Interview
+Interviews are very important parts of getting hired at the job and you need to be prepared for what might happen during the big moment. You only have one first impression so you should be prepared to make it count.
+
 ![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)  
 *The STAR method is a good way to structure answers to questions in an interview. Refer to this [video by Amazon](https://www.youtube.com/watch?v=UQrTMxouDUY) to see an example of usage.
-
-Interviews are very important parts of getting hired at the job and you need to be prepared for what might happen during the big moment. You only have one first impression so you should be prepared to make it count.
 
 Prepare first by researching the company and [practicing mock interviews and answers through career services](https://www.uwb.edu/career-services/appointments). Make sure you have all the details about the interview beforehand such as time, location, if there will be multiple interviewers,  and write down any questions you want to ask about the position.  
 
