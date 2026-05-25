@@ -1,4 +1,4 @@
-# Best Practices to become a Machine Learning Engineer
+# Best Practices to Become a Machine Learning Engineer
 By Derick Turner
 
 ## Table of Contents
