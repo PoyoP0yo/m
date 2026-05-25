@@ -17,15 +17,25 @@ This document covers the best practices on getting a job as a Machine Learning E
 
 
 # Major Classes to take
-Taking elective classes is crucial to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field and is a good way to learn while getting your degree.
+Taking elective classes is crucial to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field than the core required classes and is a good way to learn while getting your degree.
 
-Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision when possible. Additionally, take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
+Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision on quarters offered when possible. Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
 
-# Personal Projects 
-Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. Possible projects that would help cement a role in the career would be some usage of an AI model, whether that be making one or even using a low cost one from ChatGPT and pulling requests from it. To start, a good idea for your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/).
+# Personal Projects For Resume 
+Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. 
+
+Good specialized projects would be some usage of an AI model, whether that be making one or even using a low cost one like from ChatGPT and pulling requests from it. Your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/).
+
+# Tech Clubs To Join
+Clubs shows collaboration, passion, and even leadership if you have a higher up position in the club. Having a club on your resume or even just to talk about during an interview can make you stand out to employers.
+
+Join ____ club.
+
 
 # Certifications
-In terms of overall impact on a resume, certifications are mostly an extra bonus for employers. However, some ones that will give a little extra consideration to a resume are the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). If you can afford to take any one of these courses, they can provide an edge over other candidates. Do keep in mind that projects are still more important to have.
+In terms of overall impact on a resume, certifications are mostly an extra bonus for employers. However, having some will give a little extra consideration to a resume. They provide another tangible way to show experience and knowledge. Do keep in mind that projects are still more important to have.
+
+Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). 
 
 # Internships/Jobs
 A ML engineer roles aren't typically found at an entry level position from college, so it is necessary to get some experience as a Data Scientist or Software Engineer first if possible. The below sections are some tips on applying to those jobs for experience and applying for the ML role.
