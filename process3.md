@@ -3,12 +3,12 @@ By Derick Turner
 
 # Table of Contents
 - [Purpose](#purpose)
-- [Major Classes to take](#major-classes-to-take)
+- [Major Classes To Take](#major-classes-to-take)
 - [Impactful Personal Projects](#impactful-personal-projects)
-- [Hands-On Experience at Hackathons](#hands-on-experience-at-hackathons)
-- [Certifications](#certifications)
-- [Internships/Jobs](#internshipsjobs)
-  - [Resume Material](#resume-material) 
+- [Hands-On Experience At Hackathons](#hands-on-experience-at-hackathons)
+- [Extra Certifications To Get](#extra-certifications-to-get)
+- [Getting the Job/Internship](#getting-the-jobsinternships)
+  - [Writing Your Resume](#writing-your-resume) 
   - [Where To Apply For Jobs And Internships](#where-to-apply-for-jobs-and-internships)   
   - [Preparing For An Interview](#preparing-for-an-interview)  
 - [References](#references)
@@ -20,11 +20,7 @@ This document covers the best practices on getting a job as a Machine Learning E
 # Major Classes To Take
 Taking elective classes is crucial to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field than the core required classes and is a good way to learn while getting your degree.
 
-Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision on quarters offered when possible. 
-CSS 382: Introduction to Artificial Intelligence
-CSS 486: Machine Intelligence
-CSS 487: Computer Vision
-Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
+Register for CSS 382: Introduction to Artificial Intelligence, CSS 486: Machine Intelligence, and CSS 487: Computer Vision on quarters offered when possible. Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
 
 # Impactful Personal Projects
 Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. 
@@ -36,15 +32,15 @@ Hackathons provide collaboration skills and experience with creating a project u
 
 Follow the [@uwb_hacks Instagram](https://www.instagram.com/uwb_hacks/) for updates about the yearly hackathon. Join the hackathon. Enter with a team of people you don't know[medium]. Create a group with a diverse set of skills. Some tips to winning the hackathon can be found [here](https://levelup.gitconnected.com/how-to-win-a-hackathon-ee740c6d47db) 
 
-# Certifications
-In terms of overall impact on a resume, certifications are mostly an extra bonus for employers [4][5]. However, having some will still give extra consideration to a resume. They provide another tangible way to show experience and knowledge.
+# Extra Certifications To Get
+In terms of overall impact on a resume, certifications are mostly an extra bonus for employers [4][5]. However, having one or more on the resume will still give extra consideration to a resume. They provide another tangible way to show your experience and knowledge.
 
 Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). 
 
-# Internships/Jobs
+# Getting the Job/Internship
 A ML engineer roles aren't typically found at an entry level position from college, so it is necessary to get some experience as a Data Scientist or Software Engineer first if possible. The below sections are some tips on applying to those jobs for experience and applying for the ML role.
 
-## Resume Material
+## Writing Your Resume
 A strong resume is required to enter into any job and convinces employers that you are a valuable candidate for the job.
 
 Use the [other sections of this page](#table-of-contents) to help in adding content to your resume. Refer to [career services](https://www.uwb.edu/career-services/appointments#Drop-in%20hours) or the [writing center](https://www.uwb.edu/learning-commons/appointments-drop-ins/) to get help in making the resume. When making the resume, 
@@ -54,9 +50,9 @@ Use the [other sections of this page](#table-of-contents) to help in adding cont
 - Use numbers / statistics when possible (e.g. "taught a bunch of students math" vs "increased students' calculus proficiency by 70%")
 
 ## Where to Apply for Jobs and Internships
-It is not recommended to apply on Indeed or Linkedin as they often mislead you into thinking you sent applications that companies may never receive and have significantly lower success rates. Other options are better idk.
+It is not recommended to apply on Indeed or Linkedin as they often mislead you into thinking you sent applications that companies may never receive and have significantly lower success rates. Other options interact directly with the companies you are applying for.
 
-Look in [builtinseattle](https://www.builtinseattle.com) and [ycombinator](https://www.ycombinator.com) Go to [career fairs](https://www.uwb.edu/career-services/employers/career-fairs) when avaliable. Make sure to bring several copies of your resume to hand out to employers at these. Check Google Maps for local businesses and apply on their sites. Apply to smaller companies for a higher chance of recieving a response.
+Look in [builtinseattle](https://www.builtinseattle.com) and [ycombinator](https://www.ycombinator.com). Go to [career fairs](https://www.uwb.edu/career-services/employers/career-fairs) when avaliable and bring several copies of your resume to hand out to employers. Check Google Maps for local businesses and apply on their sites. Apply to smaller companies for a higher chance of recieving a response.
 
 ## Preparing For An Interview
 Interviews are very important parts of getting hired at the job and you need to be prepared for what might happen during the big moment. You only have one first impression so you should be prepared to make it count.
