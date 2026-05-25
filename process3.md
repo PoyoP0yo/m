@@ -20,7 +20,11 @@ This document covers the best practices on getting a job as a Machine Learning E
 # Major Classes To Take
 Taking elective classes is crucial to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field than the core required classes and is a good way to learn while getting your degree.
 
-Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision on quarters offered when possible. Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
+Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision on quarters offered when possible. 
+CSS 382: Introduction to Artificial Intelligence
+CSS 486: Machine Intelligence
+CSS 487: Computer Vision
+Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
 
 # Impactful Personal Projects
 Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. 
