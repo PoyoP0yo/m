@@ -13,7 +13,7 @@ By Derick Turner
 - [References](#references)
 ---
 # Purpose
-This document covers the best practices on getting a job as a Machine Learning Engineer. Knowing what to do and where to look to get the job is the first step in a successful career out of college. You should start right away as you have valuable college resources to aid you in this process. 
+This document covers the best practices on getting a job as a Machine Learning Engineer directly out of college. Knowing what to do and where to look to get the job is the first step in a successful career after college. You should start right away as you have valuable college resources to aid you in this process. 
 
 
 # Major Classes To Take
@@ -31,6 +31,10 @@ Clubs shows collaboration, commitment, and even leadership if you have a higher 
 
 Join ____ club.
 
+# Hackathons 
+Hackathons provide collaboration skills and experience with creating a project under a small window of time.
+
+Follow the uwb_hacks Instagram for updates about the yearly hackathon. Join it. Enter with a team of people you don't know[medium].  
 
 # Certifications
 In terms of overall impact on a resume, certifications are mostly an extra bonus for employers [4][5]. However, having some will still give extra consideration to a resume. They provide another tangible way to show experience and knowledge.
@@ -50,7 +54,9 @@ Use the [other sections of this page](#table-of-contents) to help in adding cont
 - Use numbers / statistics when possible (e.g. "taught a bunch of students math" vs "increased students' calculus proficiency by 70%")
 
 ## Where to Apply for Jobs and Internships
-Good places to find a job would be to look in [builtinseattle](https://www.builtinseattle.com) and [ycombinator](https://www.ycombinator.com) rather than Indeed or Linkedin. The latter often mislead you into thinking you sent applications that companies may never receive and have significantly lower success rates. Another good place would be to go to [career fairs](https://www.uwb.edu/career-services/employers/career-fairs), where employers are ready to hire for internships and jobs. Make sure to bring several copies of your resume to hand out to employers at these. Alternatively, you can check Google Maps for local businesses and apply on their sites. Remember that smaller businesses have a higher chance of responding to applications than bigger companies like FAANG.
+It is not recommended to apply on Indeed or Linkedin as they often mislead you into thinking you sent applications that companies may never receive and have significantly lower success rates. Other options are better idk.
+
+Look in [builtinseattle](https://www.builtinseattle.com) and [ycombinator](https://www.ycombinator.com) Go to [career fairs](https://www.uwb.edu/career-services/employers/career-fairs) when avaliable. Make sure to bring several copies of your resume to hand out to employers at these. Check Google Maps for local businesses and apply on their sites. Apply to smaller companies for a higher chance of recieving a response.
 
 ## Preparing For An Interview
 ![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)  
