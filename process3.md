@@ -16,7 +16,7 @@ By Derick Turner
 This document covers the best practices on getting a job as a Machine Learning Engineer. Knowing what to do and where to look to get the job is the first step in a successful career out of college. You should start right away as you have valuable college resources to aid you in this process. 
 
 
-# Major Classes to take
+# Major Classes To Take
 Taking elective classes is crucial to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field than the core required classes and is a good way to learn while getting your degree.
 
 Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision on quarters offered when possible. Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
@@ -27,13 +27,13 @@ Personal projects are needed in the industry as a tangible way to show experienc
 Good specialized projects would be some usage of an AI model, whether that be making one or even using a low cost one like from ChatGPT and pulling requests from it. Your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/).
 
 # Tech Clubs To Join
-Clubs shows collaboration, passion, and even leadership if you have a higher up position in the club. Having a club on your resume or even just to talk about during an interview can make you stand out to employers.
+Clubs shows collaboration, commitment, and even leadership if you have a higher up position in the club. Having a club on your resume or even just to talk about during an interview can make you stand out to employers.
 
 Join ____ club.
 
 
 # Certifications
-In terms of overall impact on a resume, certifications are mostly an extra bonus for employers. However, having some will give a little extra consideration to a resume. They provide another tangible way to show experience and knowledge. Do keep in mind that projects are still more important to have.
+In terms of overall impact on a resume, certifications are mostly an extra bonus for employers [4][5]. However, having some will still give extra consideration to a resume. They provide another tangible way to show experience and knowledge.
 
 Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure ML](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). 
 
@@ -41,9 +41,11 @@ Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/
 A ML engineer roles aren't typically found at an entry level position from college, so it is necessary to get some experience as a Data Scientist or Software Engineer first if possible. The below sections are some tips on applying to those jobs for experience and applying for the ML role.
 
 ## Resume Material
+A strong resume is required to enter into any job and convinces employers that you are a valuable candidate for the job.
+
 Use the [other sections of this page](#table-of-contents) to help in adding content to your resume. Refer to [career services](https://www.uwb.edu/career-services/appointments#Drop-in%20hours) or the [writing center](https://www.uwb.edu/learning-commons/appointments-drop-ins/) to get help in making the resume. When making the resume, 
 - Make sure it isn't too wordy. Hiring managers usually scan through it. Test yours with a 20-second scan and see if your biggest selling points pop out.
-- Add the most impressive points near the top to help it stick out
+- Add the most impressive points near the top to help them stick out
 - Focus on impacts when explaining work experience/projects instead of what happened (e.g. "stocked shelves everyday" vs "reorganized and replaced over 200 items / day")
 - Use numbers / statistics when possible (e.g. "taught a bunch of students math" vs "increased students' calculus proficiency by 70%")
 
@@ -54,7 +56,9 @@ Good places to find a job would be to look in [builtinseattle](https://www.built
 ![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)  
 *The STAR method is a good way to structure answers to questions in an interview. Refer to this [video by Amazon](https://www.youtube.com/watch?v=UQrTMxouDUY) to see an example of usage.
 
-Of course, prepare first by researching the company and [practicing mock interviews and answers through career services](https://www.uwb.edu/career-services/appointments). Make sure you have all the details about the interview beforehand such as time, location, if there will be multiple interviewers,  and write down any questions you want to ask about the position.  
+Interviews are very important parts of getting hired at the job and you need to be prepared for what might happen during the big moment. You only have one first impression so you should be prepared to make it count.
+
+Prepare first by researching the company and [practicing mock interviews and answers through career services](https://www.uwb.edu/career-services/appointments). Make sure you have all the details about the interview beforehand such as time, location, if there will be multiple interviewers,  and write down any questions you want to ask about the position.  
 
 # References
 [1]   "UWB Course Offerings," UW Bothell, n.d. [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 19 April 2026].  
