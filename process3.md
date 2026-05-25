@@ -3,21 +3,21 @@ By Derick Turner
 
 # Table of Contents
 - [Purpose](#purpose)
-- [Major Classes To Take](#major-classes-to-take)
+- [Major Classes to Take](#major-classes-to-take)
 - [Impactful Personal Projects](#impactful-personal-projects)
-- [Hands-On Experience At Hackathons](#hands-on-experience-at-hackathons)
-- [Extra Certifications To Get](#extra-certifications-to-get)
+- [Hands-On Experience at Hackathons](#hands-on-experience-at-hackathons)
+- [Extra Certifications to Get](#extra-certifications-to-get)
 - [Getting the Job/Internship](#getting-the-jobinternship)
   - [Writing Your Resume](#writing-your-resume) 
-  - [Where To Apply For Jobs And Internships](#where-to-apply-for-jobs-and-internships)   
-  - [Preparing For An Interview](#preparing-for-an-interview)  
+  - [Where to Apply for Jobs and Internships](#where-to-apply-for-jobs-and-internships)   
+  - [Preparing for an Interview](#preparing-for-an-interview)  
 - [References](#references)
 ---
 # Purpose
 This document covers the best practices on getting a job as a Machine Learning Engineer directly out of college. Knowing what to do and where to look to get the job is the first step in a successful career after college. You should start right away as you have valuable college resources to aid you in this process. 
 
 
-# Major Classes To Take
+# Major Classes to Take
 Taking elective classes is crucial to get knowledge and skills necessary for jobs in the field. You will often get a lot more specialized info and practice using skills in the field than the core required classes and is a good way to learn while getting your degree.
 
 Register for CSS 382: Introduction to Artificial Intelligence, CSS 486: Machine Intelligence, and CSS 487: Computer Vision on quarters offered when possible. Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
@@ -37,19 +37,19 @@ In terms of overall impact on a resume, certifications are mostly an extra bonus
 
 Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/certification/machine-learning-engineer), an [AWS ML](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) or [Azure AI](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) certification, or [Andrew Ng's ML courses](https://www.andrewng.org/courses). 
 
-# Getting The Job/Internship
+# Getting the Job/Internship
 
 ## Writing Your Resume
 A poorly written resume can undersell your value and experience even if you meet all of the qualifications of the job.
 
 When making the resume, focus on impacts when explaining work experience/projects instead of you did and use statistics or numbers when possible. Be concise, no more than one full page. Refer to [career services](https://www.uwb.edu/career-services/appointments#Drop-in%20hours) and the [writing center](https://www.uwb.edu/learning-commons/appointments-drop-ins/) to get further help in writing your resume.
 
-## Where to Apply For Jobs And Internships
+## Where to Apply for Jobs and Internships
 It is not recommended to apply on Indeed or Linkedin since they have extremely low success rates from applicant amount.
 
 Look for jobs on [builtinseattle](https://www.builtinseattle.com) and [ycombinator](https://www.ycombinator.com). Go to [career fairs](https://www.uwb.edu/career-services/employers/career-fairs) when available and bring several copies of your resume to hand out to employers. Check Google Maps for local businesses and apply on their sites. Apply to smaller companies for a higher chance of receiving a response.
 
-## Preparing For An Interview
+## Preparing for an Interview
 Interviews are crucial to getting hired at a job and you need to be prepared for what might happen during the big moment. You only have one first impression so you need to make it count.
 
 ![Image of several interview tips](https://github.com/PoyoP0yo/m/blob/main/interviewtutorial.jpg?raw=true)  
