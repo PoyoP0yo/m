@@ -4,7 +4,7 @@ By Derick Turner
 # Table of Contents
 - [Purpose](#purpose)
 - [Major Classes to take](#major-classes-to-take)
-- [Personal Projects](#personal-projects)
+- [Impactful Personal Projects](#personal-projects)
 - [Hands-On Experience at Hackathons](#hands-on-experience-at-hackathons)
 - [Certifications](#certifications)
 - [Internships/Jobs](#internshipsjobs)
@@ -22,10 +22,10 @@ Taking elective classes is crucial to get knowledge and skills necessary for job
 
 Register for classes in the [course list](https://www.washington.edu/students/crscatb/css.html.) related to Artificial Intelligence, Machine Learning, and Computer Vision on quarters offered when possible. Take CSS 436: Cloud Computing to learn about AWS and other cloud based services since knowing AWS is very valuable in the industry.
 
-# Personal Projects For Resume 
+# Impactful Personal Projects
 Personal projects are needed in the industry as a tangible way to show experience to employers and for personal skill acquisition. 
 
-Good specialized projects would be some usage of an AI model, whether that be making one or even using a low cost one like from ChatGPT and pulling requests from it. Your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/).
+Good specialized projects involve an AI model, whether that be making one or pulling requests of a low cost ChatGPT model. Create a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/).
 
 # Hands-On Experience at Hackathons 
 Hackathons provide collaboration skills and experience with creating a project under a small time window. They also provide useful hands-on experience with using AI and frameworks with room to experiment. Networking at one is as easy as talking to some of the judges or team members you find there.
