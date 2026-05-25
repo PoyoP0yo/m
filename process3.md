@@ -42,7 +42,7 @@ Get the [Google Cloud ML Engineer certification](https://cloud.google.com/learn/
 ### Writing Your Resume
 A poorly written resume can undersell your value and experience even if you meet all of the qualifications of the job.
 
-When making the resume, focus on impacts when explaining work experience/projects instead of you did and use statistics or numbers when possible. Add the most impressive points near the top to help them stick out. Be concise, no more than one full page of content. Refer to [career services](https://www.uwb.edu/career-services/appointments#Drop-in%20hours) and the [writing center](https://www.uwb.edu/learning-commons/appointments-drop-ins/) to get further help in writing your resume.
+When making the resume, focus on impacts when explaining work experience/projects instead of what you did and use statistics or numbers when possible. Add the most impressive points near the top to help them stick out. Be concise, no more than one full page of content. Refer to [career services](https://www.uwb.edu/career-services/appointments#Drop-in%20hours) and the [writing center](https://www.uwb.edu/learning-commons/appointments-drop-ins/) to get further help in writing your resume.
 
 ### Where to Apply for Jobs and Internships
 It is not recommended to apply on Indeed or Linkedin since they have extremely low success rates from applicant amount.
