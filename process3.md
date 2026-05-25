@@ -28,7 +28,7 @@ Personal projects are needed in the industry as a tangible way to show experienc
 Good specialized projects would be some usage of an AI model, whether that be making one or even using a low cost one like from ChatGPT and pulling requests from it. Your project could be a solution to a problem you have currently, such as deciding what to get at a restaurant or cafe. Make sure that the problem you are solving would benefit most from using an AI. A tutorial to implementing ChatGPT in Python can be found [here](https://realpython.com/chatgpt-api-python/).
 
 # Hands-On Experience at Hackathons 
-Hackathons provide collaboration skills and experience with creating a project under a small time window. They also provide useful hands-on experience with using AI and frameworks with room to experiment. Networking is as easy as talking to some of the judges or team members you find there.
+Hackathons provide collaboration skills and experience with creating a project under a small time window. They also provide useful hands-on experience with using AI and frameworks with room to experiment. Networking at one is as easy as talking to some of the judges or team members you find there.
 
 Follow the [@uwb_hacks Instagram](https://www.instagram.com/uwb_hacks/) for updates about the yearly hackathon. Join the hackathon. Enter with a team of people you don't know[medium]. Create a group with a diverse set of skills. Some tips to winning the hackathon can be found [here](https://levelup.gitconnected.com/how-to-win-a-hackathon-ee740c6d47db) 
 
