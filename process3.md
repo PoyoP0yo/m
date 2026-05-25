@@ -4,7 +4,7 @@ By Derick Turner
 # Table of Contents
 - [Purpose](#purpose)
 - [Major Classes to take](#major-classes-to-take)
-- [Impactful Personal Projects](#personal-projects)
+- [Impactful Personal Projects](#impactful-personal-projects)
 - [Hands-On Experience at Hackathons](#hands-on-experience-at-hackathons)
 - [Certifications](#certifications)
 - [Internships/Jobs](#internshipsjobs)
