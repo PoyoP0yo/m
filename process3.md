@@ -7,7 +7,7 @@ By Derick Turner
 - [Impactful Personal Projects](#impactful-personal-projects)
 - [Hands-On Experience At Hackathons](#hands-on-experience-at-hackathons)
 - [Extra Certifications To Get](#extra-certifications-to-get)
-- [Getting the Job/Internship](#getting-the-jobsinternships)
+- [Getting the Job/Internship](#getting-the-jobinternship)
   - [Writing Your Resume](#writing-your-resume) 
   - [Where To Apply For Jobs And Internships](#where-to-apply-for-jobs-and-internships)   
   - [Preparing For An Interview](#preparing-for-an-interview)  
